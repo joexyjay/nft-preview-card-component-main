@@ -6,7 +6,8 @@ body{
 }
 .container{
     background: hsl(216, 50%, 16%);
-    margin: 100px auto;
+    margin: auto;
+    margin-top: 50px;
     max-width: 300px;
     padding: 20px;
     border-radius: 10px;
